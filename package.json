@@ -1,0 +1,11 @@
+{
+  "name": "bmb-tech",
+  "version": "1.0.0",
+  "description": "BMB TECH static site for downloads",
+  "scripts": {
+    "start": "vercel dev",
+    "build": "echo 'No build step required'"
+  },
+  "author": "BMB TECH",
+  "license": "MIT"
+}
